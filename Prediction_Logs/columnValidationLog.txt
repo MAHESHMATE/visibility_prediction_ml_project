@@ -1,0 +1,45 @@
+2020-02-15/15:57:47		Column Length Validation Started!!
+2020-02-15/15:57:47		Column Length Validation Completed!!
+2020-02-15/15:59:05		Column Length Validation Started!!
+2020-02-15/15:59:06		Column Length Validation Completed!!
+2020-02-15/15:59:28		Column Length Validation Started!!
+2020-02-15/15:59:28		Column Length Validation Completed!!
+2020-02-15/18:55:51		Column Length Validation Started!!
+2020-02-15/18:55:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:51		Column Length Validation Completed!!
+2020-04-17/20:22:58		Column Length Validation Started!!
+2020-04-17/20:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2020-04-17/20:22:58		Column Length Validation Completed!!
+2023-04-18/19:44:14		Column Length Validation Started!!
+2023-04-18/19:44:15		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-18/19:44:15		Column Length Validation Completed!!
+2023-04-18/20:15:10		Column Length Validation Started!!
+2023-04-18/20:15:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-18/20:15:10		Column Length Validation Completed!!
+2023-04-18/20:23:09		Column Length Validation Started!!
+2023-04-18/20:23:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-18/20:23:10		Column Length Validation Completed!!
+2023-04-18/20:30:06		Column Length Validation Started!!
+2023-04-18/20:30:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-18/20:30:07		Column Length Validation Completed!!
+2023-04-18/20:43:22		Column Length Validation Started!!
+2023-04-18/20:43:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-18/20:43:23		Column Length Validation Completed!!
+2023-04-19/09:52:27		Column Length Validation Started!!
+2023-04-19/09:52:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-19/09:52:28		Column Length Validation Completed!!
+2023-04-19/12:45:05		Column Length Validation Started!!
+2023-04-19/12:45:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-19/12:45:06		Column Length Validation Completed!!
+2023-04-28/15:04:19		Column Length Validation Started!!
+2023-04-28/15:04:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-04-28/15:04:20		Column Length Validation Completed!!
+2023-05-08/07:51:04		Column Length Validation Started!!
+2023-05-08/07:51:05		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-05-08/07:51:05		Column Length Validation Completed!!
+2023-05-08/11:29:49		Column Length Validation Started!!
+2023-05-08/11:29:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-05-08/11:29:49		Column Length Validation Completed!!
+2023-05-08/12:24:28		Column Length Validation Started!!
+2023-05-08/12:24:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2023-05-08/12:24:28		Column Length Validation Completed!!
